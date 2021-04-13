@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22080547-5105-4999-92a6-1faf5971d7ae" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/java-cleancode-refactoring-renaming" beforeDir="false" afterPath="$PROJECT_DIR$/java-cleancode-refactoring-renaming" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-cleancode-refactoring-renaming/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-cleancode-refactoring-renaming/src/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-cleancode-refactoring-renaming/test/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-cleancode-refactoring-renaming/test/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[Thuc hanh] Refactoring - tach phuong thuc/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[Thuc hanh] Refactoring - tach phuong thuc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[Thuc hanh] Refactoring - tach phuong thuc/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[Thuc hanh] Refactoring - tach phuong thuc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[Thuc hanh] Refactoring - tach phuong thuc/[Thuc hanh] Refactoring - tach phuong thuc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[Thuc hanh] Refactoring - tach phuong thuc/src/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/[Thuc hanh] Refactoring - tach phuong thuc/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/java-cleancode-refactoring-renaming" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1r5ypd86vFOmbcYKf7elF82Y6l3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -30,11 +35,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/java-cleancode-refactoring-renaming" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
     <configuration name="CalculatorTest.testCalculateAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -63,6 +69,8 @@
       <updated>1618280428949</updated>
       <workItem from="1618280430228" duration="1412000" />
       <workItem from="1618285265574" duration="16000" />
+      <workItem from="1618286397856" duration="294000" />
+      <workItem from="1618289210411" duration="8000" />
     </task>
     <servers />
   </component>
