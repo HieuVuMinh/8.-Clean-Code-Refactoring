@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22080547-5105-4999-92a6-1faf5971d7ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/[Thuc hanh] Refactoring - tach phuong thuc/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[Thuc hanh] Refactoring - tach phuong thuc/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[Thuc hanh] Refactoring - tach phuong thuc/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[Thuc hanh] Refactoring - tach phuong thuc/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[Thuc hanh] Refactoring - tach phuong thuc/[Thuc hanh] Refactoring - tach phuong thuc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[Thuc hanh] Refactoring - tach phuong thuc/src/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/[Thuc hanh] Refactoring - tach phuong thuc/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="22080547-5105-4999-92a6-1faf5971d7ae" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +61,7 @@
       <workItem from="1618280430228" duration="1412000" />
       <workItem from="1618285265574" duration="16000" />
       <workItem from="1618286397856" duration="294000" />
-      <workItem from="1618289210411" duration="8000" />
+      <workItem from="1618289210411" duration="383000" />
     </task>
     <servers />
   </component>
